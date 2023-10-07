@@ -1,0 +1,11 @@
+{
+  "name": "mongodb-data-importer",
+  "version": "1.0.0",
+  "description": "A Data Importer to MongoDB Database",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abdullah Munshi",
+  "license": "ISC"
+}
